@@ -1,1 +1,1 @@
-INSERT INTO users (name, )
+INSERT INTO users (name, age) VALUES ("Amelia", 23), ("Calypso", 46), ("Bob", 33), 
