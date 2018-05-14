@@ -1,1 +1,1 @@
-INSERT I
+INSERT INTO users (name, )
